@@ -1,0 +1,33 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.left-form {
+    -fx-background-color: #FFC6F5;
+      -fx-border-color: #FFA3EF;
+      -fx-border-wight: .4px 0px .4px .4px;
+}
+
+.right-form {
+    -fx-background-color: #f9e5f9;
+      -fx-border-color:#DAA9D2;
+      -fx-border-wight: .4px .4px .4px 0px; 
+}
+
+.close {
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+}
+
+.close:hover {
+    -fx-background-color: #DAA9D2;
+} 
+
+.font {
+    -fx-font-family:"Arial";
+    -fx-font-size: 20px;
+}
+
+.img {
+    width: 150px;
+}
